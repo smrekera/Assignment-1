@@ -1,1 +1,6 @@
 Bio
+Hobby:  Golf
+        Playing with my dogs
+        Going to sporting events
+        Watching my favorite sports teams
+Programming Backgroung:

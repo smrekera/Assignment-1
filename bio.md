@@ -1,8 +1,10 @@
 Bio
 
 I am from St. Louis MO.
-Currently live in Houston, TX
-Have a degree in Sport Management
+I currently live in Houston, TX
+I have a degree in Sport Management
+I have 2 dogs
+Played college baseball
 
 Hobby:  Golf
         Playing with my dogs
